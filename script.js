@@ -4,6 +4,7 @@ const weatherApi = {
     key: '9f23b56e8dcad8299bf4e5a2a3fc932b',
     baseUrl: 'https://api.openweathermap.org/data/2.5/weather'
 }
+//remove hard coded areas
 
 //anonymous function
 //adding event listener key press of enter
